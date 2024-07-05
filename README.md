@@ -1,2 +1,5 @@
 # React-Forms
-Created with CodeSandbox
+Uses forms to update text input when submit button is clicked.
+
+# Technologies
+HTML, CSS, JavaScript, ReactJS.
